@@ -1,5 +1,4 @@
 # ECAB-integrated-system
-<br><br/>
 <li>Project introduction：
 <li>1.ECAB Ke Yi group Integrated Network Resource Management System
 <li>2.Project leader：Shi Jia xuan
